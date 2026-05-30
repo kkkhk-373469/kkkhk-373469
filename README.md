@@ -10,7 +10,6 @@ Hello, I'm Minjae Kim
 - Connected & Cooperative Driving
 - V2X Communication
 - Cooperative Perception
-- ROS2-based Autonomous Systems
 - Vehicle Control & Embedded AI
 
 🏢 Research Experience
