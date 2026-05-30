@@ -73,8 +73,8 @@ Republic of Korea Air Force
 - Vehicle Maintenance Specialist
 
 🌏 Additional Experience
-International School Experience (3 Years)
-Hanyang Social Service Program (30 Hours)
+- International School Experience
+- Hanyang Social Service Program (30 Hours)
 
 🛠️ Technical Skills
 Programming: 
