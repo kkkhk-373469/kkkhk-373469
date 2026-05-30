@@ -56,6 +56,7 @@ CAM Lab (Hanyang University) | Undergraduate Researcher (2025.09 – Present)
 1. Automotive Maintenance Craftsman(자동차정비기능사)
 2. Computer Specialist in Spreadsheet & Database Level 1(컴퓨터활용능력 1급)
 3. Word Processor Specialist(워드프로세서)
+4. SQLD
 
 🌐 Language
 - TOEIC 940
