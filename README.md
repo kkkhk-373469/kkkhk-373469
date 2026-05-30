@@ -1,9 +1,9 @@
 Hello, I'm Minjae Kim
 
 🎓 Education
-Hanyang University, B.S. in Automotive Engineering
-Automotive Software Convergence Program (Minor)
-Bundang High School
+- Hanyang University, B.S. in Automotive Engineering
+- Automotive Software Convergence Program (Minor)
+- Bundang High School
 
 🔬 Research Interests
 - Autonomous Driving
