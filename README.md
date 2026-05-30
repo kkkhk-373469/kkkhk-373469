@@ -14,6 +14,7 @@ Bundang High School
 - Vehicle Control & Embedded AI
 
 🏢 Research Experience
+
 CAM Lab (Hanyang University) | Undergraduate Researcher (2025.09 – Present)
 - Research on V2X communication and Cooperative Perception
 - Simulation-based evaluation using WiLabV2Xsim (MATLAB)
@@ -22,17 +23,22 @@ CAM Lab (Hanyang University) | Undergraduate Researcher (2025.09 – Present)
 - RMR (Redundancy Mitigation Rule) design and evaluation
 
 🚀 Projects
+
 1. Cooperative Perception Redundancy Mitigation Rule for CPM object selection
 - Performance evaluation using WiLabV2Xsim
+  
 2. Automotive Embedded AI Project
 - Autonomous driving system development using Computer Vision and TensorRT
+
 3. KAIST Mobility Challenge
 - ROS2-based autonomous vehicle development
 - Roundabout navigation and vehicle control logic implementation
 - Python-based perception and control integration
+
 4. 4-DOF Automatic Refueling Robot Arm
 - Microprocessor and Application Systems Project
 - Designed and implemented a 4-axis robotic arm system
+
 5. Engineering Design Project
 - Team-based engineering design and prototyping project
 
@@ -40,8 +46,10 @@ CAM Lab (Hanyang University) | Undergraduate Researcher (2025.09 – Present)
 1. Finalist Award
 KAIST Mobility Challenge
 Responsible for roundabout strategy and vehicle control logic
+
 2. Grand Prize (최우수상)
 Engineering Design Competition
+
 3. Hanyang Brain Scholarship
 Awarded for Academic Excellence
 
