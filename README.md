@@ -59,7 +59,7 @@ Awarded for Academic Excellence
 3. Word Processor Specialist(워드프로세서)
 
 🌐 Language
-TOEIC 940
+- TOEIC 940
 
 📚 Education & Training
 1. H-Mobility Class
