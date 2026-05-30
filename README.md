@@ -77,6 +77,7 @@ Republic of Korea Air Force
 - Hanyang Social Service Program (30 Hours)
 
 🛠️ Technical Skills
+
 Programming: 
 - Python
 - C++
