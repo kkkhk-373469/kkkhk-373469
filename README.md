@@ -43,14 +43,14 @@ CAM Lab (Hanyang University) | Undergraduate Researcher (2025.09 – Present)
 
 🏆 Awards & Honors
 1. Finalist Award
-KAIST Mobility Challenge
-Responsible for roundabout strategy and vehicle control logic
+- KAIST Mobility Challenge
+- Responsible for roundabout strategy and vehicle control logic
 
 2. Grand Prize (최우수상)
-Engineering Design Competition
+- Engineering Design Competition
 
 3. Hanyang Brain Scholarship
-Awarded for Academic Excellence
+- Awarded for Academic Excellence (GPA 4.5/4.5)
 
 📜 Certifications
 1. Automotive Maintenance Craftsman(자동차정비기능사)
