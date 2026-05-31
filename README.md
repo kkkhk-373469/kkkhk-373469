@@ -91,6 +91,7 @@ AI / Simulation:
 
 Tools:
 - Git / GitHub
+- Arduino
 - Linux
 
 📫 Contact
