@@ -88,7 +88,6 @@ Programming:
 AI / Simulation:
 - PyTorch
 - ROS2
-- Computer Vision
 - WiLabV2Xsim (MATLAB)
 - ROBOFLOW
 
