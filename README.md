@@ -25,23 +25,20 @@ CAM Lab (Hanyang University) | Undergraduate Researcher (2025.09 – Present)
 
 1. Cooperative Perception Redundancy Mitigation Rule for CPM object selection
 - Performance evaluation using WiLabV2Xsim
-
-2. Bird’s-Eye-View Autonomous Rover Navigation (Ongoing)
-- A real-time autonomous navigation system using bird’s-eye-view mapping, mini-map localization, and obstacle detection
   
-3. Embedded AI Autonomous Rover
+2. Embedded AI Autonomous Rover
 - A real-time autonomous driving system using YOLO detection, road segmentation, and TensorRT
 
-4. KAIST Mobility Challenge
+3. KAIST Mobility Challenge
 - ROS2-based autonomous vehicle development
 - Roundabout navigation and vehicle control logic implementation
 - Python-based perception and control integration
 
-5. 4-DOF Automatic Refueling Robot Arm
+4. 4-DOF Automatic Refueling Robot Arm
 - Microprocessor and Application Systems Project
 - Designed and implemented a 4-axis robotic arm system
 
-6. Engineering Design Project
+5. Engineering Design Project
 - Team-based engineering design and prototyping project
 
 🏆 Awards & Honors
